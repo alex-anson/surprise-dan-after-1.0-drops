@@ -17,3 +17,10 @@
 - ... need more ideas!!
 
 PS: i dunno why the project was initialized with yarn.
+
+## ELISA'S SPOT
+
+Hey Alex!
+I like your ideas, I will think about an online game, for now my mind is EMPTY!
+I think the classical 3 choices can be ok.
+I will think more and I'll update you, we have to hurry up! :P
