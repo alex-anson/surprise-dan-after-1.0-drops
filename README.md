@@ -14,6 +14,8 @@
 - certificate for being a wizard developer (downloadable PDF)
 - youtube video of a moose song. or moose in the wild
 - a cool online game? (i don't know of any -- i consider it your area of expertise! lol)
+  ------> https://mystery.knightlab.com/
+  ------> https://flukeout.github.io/
 - ... need more ideas!!
 
 PS: i dunno why the project was initialized with yarn.
