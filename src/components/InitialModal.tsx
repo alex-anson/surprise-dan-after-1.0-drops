@@ -22,7 +22,7 @@ export default function InitialDialog() {
       </Dialog.Description>
 
       <button
-        className="z-50 text-gray-50 btn uppercase border border-gray-50 rounded-sm tracking-wide text-xl font-light py-2 px-4 hover:bg-purple-300 hover:text-gray-900 focus:ring-4 focus:ring-purple-100 focus:ring-offset-2"
+        className="z-50 text-gray-50 btn uppercase border border-gray-50 rounded-sm tracking-wide text-xl py-2 px-4 hover:bg-purple-100 hover:text-gray-900 btnHoverTransition"
         onClick={() => setIsOpen(false)}
       >
         Risk Taker

@@ -1,12 +1,18 @@
-export default function Card({
+interface Props {
+  imgSrc: string;
+  textTitle: string;
+  textParagraph: string;
+  buttonText: string;
+  buttonHref: string;
+}
+
+export default function CardOneButton({
   imgSrc,
   textTitle,
   textParagraph,
-  textButton,
+  buttonText,
   buttonHref,
-  optionalSecondButtonText,
-  optionalSecondButtonHref,
-}) {
+}: Props) {
   return (
     <div className="col mb-5">
       <div className="card h-100">
@@ -16,16 +22,8 @@ export default function Card({
           <p className="card-text my-2">{textParagraph}</p>
           <div className="d-flex justify-content-center mt-4 mb-1">
             <a className="btn btn-outline-dark" href={buttonHref}>
-              {textButton}
+              {buttonText}
             </a>
-            {optionalSecondButtonHref ? (
-              <a
-                className="btn btn-outline-dark"
-                href={optionalSecondButtonHref}
-              >
-                {optionalSecondButtonText}
-              </a>
-            ) : null}
           </div>
         </div>
       </div>
