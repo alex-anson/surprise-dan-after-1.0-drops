@@ -22,7 +22,7 @@ export default function CardTwoButtons({
   onClickButtonTwo,
 }: Props) {
   return (
-    <div className="col mb-5">
+    <div className="col mb-3">
       <div className="card h-100">
         <img src={imgSrc} className="card-img-top img-thumbnail" alt="#" />
         <div className="card-body text-center">

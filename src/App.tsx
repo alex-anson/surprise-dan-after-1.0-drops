@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="min-h-full min-w-full bg-gradient-to-br from-gradient-customPurple via-gradient-customRed to-gradient-customOrange pt-5">
       <InitialDialog />
-      <div className="grid grid-cols-3 gap-5 mx-5 w-full">
+      <div className="grid grid-cols-3 gap-5 mx-5">
         <CardOneButton
           imgSrc={moose}
           textTitle="👀"

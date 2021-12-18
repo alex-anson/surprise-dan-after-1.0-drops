@@ -14,8 +14,9 @@ export default function CardOneButton({
   buttonHref,
 }: Props) {
   return (
-    <div className="col mb-5">
+    <div className="col mb-3">
       <div className="card h-100">
+        {/* ^ flex row this at smaller width */}
         <img src={imgSrc} className="card-img-top img-thumbnail" alt="#" />
         <div className="card-body text-center">
           <h5 className="card-title fs-4 fw-bold">{textTitle}</h5>
