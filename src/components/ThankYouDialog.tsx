@@ -53,8 +53,8 @@ export default function ThankYouDialog({
             >
               <Dialog.Title>
                 <div className="flex justify-between items-center mb-4 ">
-                  <h1 className="inline-flex text-3xl font-light items-center">
-                    Hey Moose!
+                  <h1 className="inline-flex text-3xl items-center">
+                    🎉 🙌 🥳 🔥 🚀 🧙‍♂️
                   </h1>
                   <button onClick={closeModal}>
                     <XIcon className="h-6 text-gray-500" />
