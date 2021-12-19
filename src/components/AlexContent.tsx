@@ -10,6 +10,10 @@ export default function AlexContent() {
         good deal of my tech knowledge comes from being involved in this project
         (and nearly all of my experience).{" "}
       </p>
+      <p>
+        You've allowed me to discover my love of unit testing, typescript, and
+        backend. I cannot wait to continue this journey.
+      </p>
     </>
   );
 }
