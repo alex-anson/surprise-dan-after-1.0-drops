@@ -9,6 +9,12 @@ module.exports = {
           customRed: "#c4172e",
           customOrange: "#cc560c",
         },
+        orange: {
+          light: "#FEBC26",
+          normal: "#F79431",
+          dark: "#4F2F10",
+          pink: "#FFD1E0",
+        },
       },
       fontFamily: {
         sans: [
