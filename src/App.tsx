@@ -60,13 +60,13 @@ function App() {
         </Card>
         <Card
           imgSrc={thanks}
-          textTitle="Thank you!"
-          textParagraph="One from each of us."
+          textTitle="🙏"
+          textParagraph="A note from each of us."
         >
           <TwoButtons
-            buttonOneText="From Elisa"
+            buttonOneText="Elisa"
             onClickButtonOne={openDialogElisa}
-            buttonTwoText="From Alex"
+            buttonTwoText="Alex"
             onClickButtonTwo={openDialogAlex}
           />
         </Card>

@@ -20,7 +20,7 @@ export default function TwoButtons({
   return (
     <div className="flex flex-col justify-center items-center mt-4 mb-1">
       <a
-        className="inline-block font-normal text-center cursor-pointer border border-gray-400 py-1.5 px-3.5 rounded mb-4 btnGradient text-gray-50"
+        className="inline-block font-normal text-center cursor-pointer border border-gray-400 py-1.5 px-3.5 rounded mb-4 btnGradient text-gray-50 uppercase tracking-wide"
         href={buttonOneHref}
         onClick={onClickButtonOne}
         target={target}
@@ -28,7 +28,7 @@ export default function TwoButtons({
         {buttonOneText}
       </a>
       <a
-        className="inline-block font-normal text-center cursor-pointer border border-gray-400 py-1.5 px-3 rounded btnGradient text-gray-50"
+        className="inline-block font-normal text-center cursor-pointer border border-gray-400 py-1.5 px-3.5 rounded btnGradient text-gray-50 uppercase tracking-wide"
         href={buttonTwoHref}
         onClick={onClickButtonTwo}
         target={target}
