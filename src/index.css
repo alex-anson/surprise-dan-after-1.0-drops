@@ -37,4 +37,13 @@
     outline: #fff;
     box-shadow: none;
   }
+
+  #gem {
+    transition: all 0.5s;
+  }
+
+  #gem:hover,
+  #gem:active {
+    fill: #ffd1e0;
+  }
 }

@@ -29,7 +29,7 @@ export default function AlexContent() {
       </p>
       <p>
         PS &mdash; thank you for having the patience of a saint. 🤣 <br />
-        🧡
+        You're a gem. 💎 🧡
       </p>
     </>
   );
