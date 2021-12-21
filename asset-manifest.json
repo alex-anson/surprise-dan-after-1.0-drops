@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/surprise-dan-after-1.0-drops/static/css/main.f56e5eb6.chunk.css",
+    "main.js": "/surprise-dan-after-1.0-drops/static/js/main.75680284.chunk.js",
+    "main.js.map": "/surprise-dan-after-1.0-drops/static/js/main.75680284.chunk.js.map",
+    "runtime-main.js": "/surprise-dan-after-1.0-drops/static/js/runtime-main.78f2aefa.js",
+    "runtime-main.js.map": "/surprise-dan-after-1.0-drops/static/js/runtime-main.78f2aefa.js.map",
+    "static/js/2.45630dd3.chunk.js": "/surprise-dan-after-1.0-drops/static/js/2.45630dd3.chunk.js",
+    "static/js/2.45630dd3.chunk.js.map": "/surprise-dan-after-1.0-drops/static/js/2.45630dd3.chunk.js.map",
+    "static/js/3.b146e242.chunk.js": "/surprise-dan-after-1.0-drops/static/js/3.b146e242.chunk.js",
+    "static/js/3.b146e242.chunk.js.map": "/surprise-dan-after-1.0-drops/static/js/3.b146e242.chunk.js.map",
+    "index.html": "/surprise-dan-after-1.0-drops/index.html",
+    "static/css/main.f56e5eb6.chunk.css.map": "/surprise-dan-after-1.0-drops/static/css/main.f56e5eb6.chunk.css.map",
+    "static/js/2.45630dd3.chunk.js.LICENSE.txt": "/surprise-dan-after-1.0-drops/static/js/2.45630dd3.chunk.js.LICENSE.txt",
+    "static/media/fireworks.6f7db96a.jpeg": "/surprise-dan-after-1.0-drops/static/media/fireworks.6f7db96a.jpeg",
+    "static/media/moose.85c200b7.jpg": "/surprise-dan-after-1.0-drops/static/media/moose.85c200b7.jpg",
+    "static/media/thanks.64ff7b66.jpg": "/surprise-dan-after-1.0-drops/static/media/thanks.64ff7b66.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78f2aefa.js",
+    "static/js/2.45630dd3.chunk.js",
+    "static/css/main.f56e5eb6.chunk.css",
+    "static/js/main.75680284.chunk.js"
+  ]
+}
