@@ -2,11 +2,8 @@ import { Dialog, Transition } from "@headlessui/react";
 import { DownloadIcon } from "@heroicons/react/outline";
 import { Fragment } from "react";
 
-// Paths to the full files in the public folder
-const png2021 = "/WizardDan2021.png";
-const pdf2021 = "/WizardDan2021.pdf";
-// const png2022 = "/WizardDan2022.png";
-// const pdf2022 = "/WizardDan2022.pdf";
+const png2021 = "/surprise-dan-after-1.0-drops/WizardDan2021.png";
+const pdf2021 = "/surprise-dan-after-1.0-drops/WizardDan2021.pdf";
 
 interface Props {
   isOpen: boolean;
